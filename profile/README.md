@@ -29,10 +29,10 @@ Una plataforma **SaaS multi-tenant** que reemplaza el canal de SMS en GoHighLeve
 
 | Repo | Propósito |
 |------|-----------|
-| [`core`](https://github.com/wzapi/core) | 🎯 Aplicación principal y orquestación |
+| [`core`](https://github.com/wzapi/core) | 🎯 Producto SaaS (Fase 0: especificación) |
 | [`ui-kit`](https://github.com/wzapi/ui-kit) | 🎨 Biblioteca de componentes UI |
 | [`gateway`](https://github.com/wzapi/gateway) | ⚙️ Gateway Go (whatsmeow) |
-| `package_*` | 📦 Módulos independientes @wzapi/* |
+| `package_*` | 📦 Archivados (vacíos); el diseño modular vive en core |
 
 ## 🛠 Stack
 
